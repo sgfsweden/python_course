@@ -158,7 +158,7 @@ We who will be giving the course are:
    .. grid-item::
       :columns: 4
 
-      .. image:: _static/erik_toller.jpg
+      .. image:: https://avatars2.githubusercontent.com/u/12051167?s=460&u=ad0baaa3520ab942c93af44ea8e296b44ea459ac&v=4
          :class: profile-photo
 
    .. grid-item::
@@ -166,4 +166,4 @@ We who will be giving the course are:
 
       **Raoul Collenteur**
 
-      Hello there ...
+      Raoul is a hydrologist focusing on groundwater related problems and developing open-source software to solve them. He leads and is involved in developing open-source software such as ``Pastas``, ``PyEt`` and ``pHydrus``. He holds a PhD in hydrogeology from the University of Graz (Austria) and works as a hydrological consultant at  Collenteur HydroConsult GmbH.
