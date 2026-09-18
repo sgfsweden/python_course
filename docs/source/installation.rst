@@ -10,6 +10,9 @@ Installing Python on Windows
 The current Python documentation recommends the Python Install Manager
 for installations obtained directly from the Python project.
 
+.. important::
+   Install Python 3.11 or later, as earlier versions may not be compatible with the course materials.
+
 #. Open the Python downloads page:
 
    `Download Python <https://www.python.org/downloads/>`_
