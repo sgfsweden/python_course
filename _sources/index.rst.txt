@@ -29,17 +29,9 @@ Before starting the course, make sure that you have installed Python and the req
 IDE
 ---
 
-An IDE (Integrated Development Environment) is a software application that provides comprehensive facilities to computer programmers for software development. It typically consists of a source code editor, build automation tools, and a debugger. There are many IDEs available for Python and this course does not require a specific IDE. You can use any IDE that you are comfortable with. Some popular IDEs for Python include:
+An IDE (Integrated Development Environment) is a software application that provides comprehensive tools for software development. It typically includes a source code editor, build automation tools, and a debugger. There are many IDEs available for Python, and this course does not require the use of a specific one.
 
-* `Jupyter Lab <https://jupyter.org/>`_
-* `Visual Studio Code <https://code.visualstudio.com/>`_
-* `PyCharm <https://www.jetbrains.com/pycharm/>`_
-* `Spyder <https://www.spyder-ide.org/>`_
-
-It is also possible to write Python code in a simple text editor and run it from the command line. However, using an IDE can make it easier to write and debug code.
-
-.. tip::
-   In this course we will use Jupyter Lab for the hands-on exercises. You can find instructions on how to install and run Jupyter Lab in the :doc:`jupyter_notebooks` section.
+The course materials and exercises are provided as Jupyter Notebooks, and we, the instructors, will use `Jupyter Lab <https://jupyter.org/>`_.
 
 .. warning::
     Many companies have strict policies regarding the installation of software on work computers. If you are using a work computer, please check with your IT department before installing any software. You may need to use an approved installation method or install into your user profile if organizational policy permits it.

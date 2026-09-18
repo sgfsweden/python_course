@@ -100,8 +100,7 @@ demonstrations, and hands-on exercises.
 
 .. note::
 
-   Coffee and lunch breaks are included in the schedule. Minor adjustments
-   may be made during the course.
+   Coffee, fika, and lunch are included in the course. Minor adjustments to the schedule may be made during the course.
 
 Course instructors
 -----------------------
@@ -122,12 +121,7 @@ We who will be giving the course are:
 
       **Erik Toller**
 
-      Long experience in groundwater modelling and hydrogeology, with many
-      years of Python development and scientific programming. He is experienced
-      in both groundwater modelling and time-series analysis.
-
-      He holds a PhD in hydrology and is currently working as a hydrogeologist
-      at WSP in Sweden.
+      Erik is a hydrogeologist main focued on modelling roundwater flow in fractured rock. He uses both comercial and open-source software for groundwater modelling, and developes his own open-source software for groundwater modelling and analysis. He holds a PhD in hydrology and is currently working as a hydrogeologist at WSP in Sweden.
 
       Erik is one of the developers of the Python package ``gwrefpy`` and the
       main developer of the ``andfn`` package.
